@@ -15,4 +15,3 @@ Visual Insights:
            Monthly Sales Trend (Line Chart)
            Profit by Segment (Line Chart)
            
-uploaded by miss-roshni(https://github.com/miss-roshni/powerbi-project/edit/main/README.md)
